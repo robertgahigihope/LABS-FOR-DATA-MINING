@@ -6,5 +6,5 @@
 3. Labs for chapter 4: Classification
 
 ## Student Names and ID:
-GAHIGI Robert
+GAHIGI Robert:
 101101
