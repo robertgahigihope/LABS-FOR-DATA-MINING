@@ -4,6 +4,7 @@
 1. Labs for Chapter 2 :Introduction to Python
 2. Labs for chapter 3: Linear regression
 3. Labs for chapter 4: Classification
+4. Labs for chapter 5: Resampling Methods
 
 ## Student Names and ID:
 GAHIGI Robert:
