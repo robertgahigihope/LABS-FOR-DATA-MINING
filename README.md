@@ -6,6 +6,7 @@
 3. Labs for chapter 4: Classification
 4. Labs for chapter 5: Resampling Methods
 5. Labs for chapter 6: Linear models and Regularizations Methods
+6. Labs for chapter 8:Decision Trees
 
 ## Student Names and ID:
 GAHIGI Robert:
