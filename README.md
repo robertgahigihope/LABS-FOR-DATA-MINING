@@ -7,6 +7,7 @@
 4. Labs for chapter 5: Resampling Methods
 5. Labs for chapter 6: Linear models and Regularizations Methods
 6. Labs for chapter 8:Decision Trees
+7. Labs for chapter 9: Support Vector Machine 
 
 ## Student Names and ID:
 GAHIGI Robert:
